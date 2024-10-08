@@ -1,0 +1,5 @@
+2024-Oct-1,Food,750.0
+2024-Oct-03,groceries,2500.0
+2024-Oct-04,Water can,105.0
+2024-Oct-06,vegetables,730.0
+2024-Oct-07,Electricity & Internet,2500.0
